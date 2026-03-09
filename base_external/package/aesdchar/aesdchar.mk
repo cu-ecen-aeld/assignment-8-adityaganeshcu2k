@@ -1,7 +1,7 @@
 ##############################################################
 #
 # AESD-ASSIGNMENTS
-#
+# References :- https://chatgpt.com/share/69ae5102-e114-8008-b014-85ccf9a607a4
 ##############################################################
 $(info AESD-CHAR .mk file is being  by Buildroot!)
 
